@@ -1,109 +1,479 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719597479622 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719598332327 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597482764 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598335431 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597485876 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598338530 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597488925 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598341597 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597492022 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598344777 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597495107 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598347886 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597498174 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598351004 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597501238 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598354057 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597504278 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598357129 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597507350 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598360282 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597510481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598363420 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597513599 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598366527 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597516666 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598369620 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597519733 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598372698 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597522874 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598375781 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597526012 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598378882 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597529120 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598382172 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597532156 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598385239 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597535208 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598388311 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597538259 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598391360 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597541301 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598394501 tunnel running, 1 tunnels registered
 
 
 TUNNELS
 going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719597544355 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719598397608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598400667 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598403706 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598406790 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598409910 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598412984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598416028 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598419065 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598422103 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598425144 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598428215 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598431326 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598434405 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598437499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598440556 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598443622 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598446689 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598449758 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598452839 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598455939 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598459009 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598462066 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598465152 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598468226 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598471293 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598474353 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598477410 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598480470 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598483527 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598486585 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598489659 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598492697 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598495764 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598498855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598502029 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598505153 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598508254 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598511314 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598514370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598517427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598520500 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598523555 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598526608 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598529707 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598532797 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598535894 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598538939 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598541991 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598545055 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598548105 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598551162 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598554246 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598557322 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598560377 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598563467 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598566591 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598569652 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598572712 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598575800 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598578871 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598581939 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598585013 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598588114 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598591337 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598594438 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598597513 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598600566 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598603618 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598606719 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598609770 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598612815 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598615876 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598618952 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598622037 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+going-andorra.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719598625136 tunnel running, 1 tunnels registered
 
 
 TUNNELS
